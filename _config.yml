@@ -23,13 +23,13 @@ repository               : "zhanglk6/zhanglk6.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "张理昆 Likun Zhang"
+  pronouns         : # example: "he/his"  
+  bio              : "PHD candidate in statistics"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Renmin University of China"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhanglk6@ruc.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
