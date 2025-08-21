@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+* Causal inference, adaptive design, machine learning methods, precision medicine
+
 Education
 ======
 * Ph.D in Statistics, Institute of Statistics and Big Data, Renmin University of China, 2021-2026 (expected)
@@ -22,19 +26,8 @@ Education
 
 Work experience
 ======
-* None
-  * None
-
-
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quant: Quantitative Investment Research With Machine Learning
+  * Simulated stock price prediction strategies with machine learning methods 
 
 Publications
 ======
@@ -53,7 +46,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
