@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year phd candidate from Renmin University of China (RUC). My research interests are covaraite-adaptive randomization, precision medicine, and machine learning methods. 
+I'm a fourth year phd candidate from Renmin University of China (RUC). My research interests are causal inference, adaptive design, machine learning methods, precision medicine.
 
 You can find my CV here: [Curriculum Vitae](../assets/Likun_Zhang_CV.pdf)
 
